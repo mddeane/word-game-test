@@ -3,7 +3,7 @@ package com.revature.main;
 import java.util.Scanner;
 
 public class WordGame2 {
-
+// change
 	private static Scanner sc = new Scanner(System.in); 
 
 	public static String answer = chooseWord();
